@@ -36,6 +36,6 @@ This project demonstrates how phase-only holography can be used to reconstruct a
 • 	Exploring optical concealment and recovery techniques.
 
 ## 👤 Author
-Developed by Fuseini — researcher in computational optics, holography, and scientific visualization.
+Developed by Alhassan Kpahambang Fuseini
 ## 📄 License
 MIT License.
