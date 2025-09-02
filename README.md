@@ -11,6 +11,9 @@ This work highlights the potential of phase-only holography as a tool for recove
 ## 📌 Overview
 This project demonstrates how phase-only holography can be used to reconstruct an object that has been visually suppressed or camouflaged. A binary object (white square) is masked by a circular region to simulate invisibility. The modified field is encoded using a Fourier transform, and only the phase information is retained. The object is then reconstructed using an inverse Fourier transform, revealing hidden structure through phase recovery.
 
+
+![](hologram_phase.png)
+
 ## 🧠 Physics Context
 - **Optical Camouflage**: Simulates a refractive region that suppresses object visibility.
 - **Phase-Only Holography**: Encodes object information using only the phase of the Fourier transform.
